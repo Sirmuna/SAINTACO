@@ -156,7 +156,7 @@ height: auto;
         justify-content: space-around;
     }
     #saint-logo{
-    display: none;
+        display: none;
     }
     #saint-log{
         display: flex;
